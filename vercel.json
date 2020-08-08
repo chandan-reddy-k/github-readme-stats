@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/chandan-reddy-k/github-readme-stats"
+      "destination": "https://git-stats.chandan.dev/api?username=chandan-reddy-k&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515"
     }
   ]
 }
